@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DanielLancheros
+- 👋 Hi, I’m @DanielLancheros, I am a certified Software Engineer graduate of Boca Code. On my spare time I enjoy learning game development and enjoy playing video games. I also enjoy playing sports and hanging out with family and friends. 
 - 👀 I’m interested in making websites beautiful and interactive.
 - 🌱 I’m currently learning the Angular frameworks and bettering my skills in JS.
 - 💞️ I’m looking to collaborate on a team of software engineers to work hard and make a difference in the way users interact with web and mobile applications.
